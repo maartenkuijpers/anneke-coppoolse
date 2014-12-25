@@ -1,0 +1,26 @@
+body,p,table,td,tr
+{
+	font-family: "Century Gothic", Arial, sans-serif;
+	font-size: 13px;
+	background-repeat: no-repeat;
+	color: #000000;
+}
+
+big {
+	color: #666666;
+}
+
+IMG {
+	border: 0px;
+}
+
+A {
+	color: #000000;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+A:hover 
+{
+	text-decoration:underline;
+}
